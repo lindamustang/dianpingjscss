@@ -3022,7 +3022,10 @@
                                 s && s.apply(this, arguments)
                             }
                         }
-                        return n.apply(this, arguments)
+                        return n.apply(this, arguments)  
+                        #密码加密处理
+                        #"countrycode=86&username=18852571801&keepLogin=on&encryptPassword=
+                        #X2pRIYMCKSLj18UrT%2FaHbeeJoREA37kFlEwO7xpVaKDEDpNzU69866tmn0r5xNPyPyUfVnXBqqCwTqeFwuo1u7pYUndNL7f0oXb7VusswZeO4dBp4XApxBfEo5oyYYSkfRlMujyXgKIzjWpIVeQCYHpd6K5OCcjYeZ5%2FBDmVzD0%3D&_token=eJyVkmtvokAUhv8LSftFoszADGBiNiBqvRRvoNamaQApggrKxUs3%2B9%2F3MF1t%2B2E32WQSnnOZ855zmJ9c2l1xdQ4JgiCpHM8d%2FbQ0q0KVgpVnXB0RWSQSUgSqiJjnvE8fljAREeI5N50ZXP0ZqwIvyuSldEzAfkYipbxMlRf%2BD2JALMEpc7qQwq3zfJ%2FVazXH85Iizqur0In3YRxUvWR3ddbCt9TZ%2BYMkCOMfnrPduo63abSc7MJcryz6eg0I96dw5TfenG3m3%2B%2FTJE%2B8ZNv40LlP%2FVWYMuNO1O5wG853TXBkaycO1k4I8%2F%2Bzuy3r578qwtg7qxwbSZTHWAaJL6RKPJJFRhQIA2FB4BFVGWEghREBIowUIKkk%2BA2IshsIqlCBEeQR5a9EvxG9EauMZCB8JfY0MAI1ieVh6EpCjEBXZFWwCCTe6CMKvWB2F4MupjciN2LdY9DFTA2DGv64qzCClW3KlcHX%2Bbo6Xrcta2h%2BzsR3zZFtldtTZF4ivFaGqMDLvNGdlWXya5lHeOEQzMIgBvJ7J%2FPdznEQabZmNtVhRzvMW6OpNh4Rvz8ObH3Sj5stZaTNeqfQezgVqVtIHfkgrzcKDQ6LxGxbGnoyp8m5V7GFweKSpX43sPeqH%2FvaPA%2Fc3vlYVI7GST%2FG0SG2yGklEnkqnRebpa9TeRPiaPC%2BIdFONEx10insQ2uytTyp759Dj1iy5i8fvE07GkfmbBLqxaotVLxLrZZpb51zns3Pw248c6PLsOgPBBQt9pXL3p25p%2BYbzmvrXs3IhcdjEj0ZbSOfTSsdXU1dl5AinaPkodsaVCo7e74kB%2B%2BpM9kaZKk3jSRwdWOFR4Len50n7%2BNGg%2Fv1G7pvJp4%3D"
                     }
                 }
             }
